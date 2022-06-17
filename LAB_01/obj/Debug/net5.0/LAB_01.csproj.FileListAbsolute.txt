@@ -1,0 +1,16 @@
+F:\KOLOKWIUM_PO1\LAB_01\LAB_01\bin\Debug\net5.0\LAB_01.exe
+F:\KOLOKWIUM_PO1\LAB_01\LAB_01\bin\Debug\net5.0\LAB_01.deps.json
+F:\KOLOKWIUM_PO1\LAB_01\LAB_01\bin\Debug\net5.0\LAB_01.runtimeconfig.json
+F:\KOLOKWIUM_PO1\LAB_01\LAB_01\bin\Debug\net5.0\LAB_01.runtimeconfig.dev.json
+F:\KOLOKWIUM_PO1\LAB_01\LAB_01\bin\Debug\net5.0\LAB_01.dll
+F:\KOLOKWIUM_PO1\LAB_01\LAB_01\bin\Debug\net5.0\LAB_01.pdb
+F:\KOLOKWIUM_PO1\LAB_01\LAB_01\obj\Debug\net5.0\LAB_01.csproj.AssemblyReference.cache
+F:\KOLOKWIUM_PO1\LAB_01\LAB_01\obj\Debug\net5.0\LAB_01.GeneratedMSBuildEditorConfig.editorconfig
+F:\KOLOKWIUM_PO1\LAB_01\LAB_01\obj\Debug\net5.0\LAB_01.AssemblyInfoInputs.cache
+F:\KOLOKWIUM_PO1\LAB_01\LAB_01\obj\Debug\net5.0\LAB_01.AssemblyInfo.cs
+F:\KOLOKWIUM_PO1\LAB_01\LAB_01\obj\Debug\net5.0\LAB_01.csproj.CoreCompileInputs.cache
+F:\KOLOKWIUM_PO1\LAB_01\LAB_01\obj\Debug\net5.0\LAB_01.dll
+F:\KOLOKWIUM_PO1\LAB_01\LAB_01\obj\Debug\net5.0\refint\LAB_01.dll
+F:\KOLOKWIUM_PO1\LAB_01\LAB_01\obj\Debug\net5.0\LAB_01.pdb
+F:\KOLOKWIUM_PO1\LAB_01\LAB_01\obj\Debug\net5.0\LAB_01.genruntimeconfig.cache
+F:\KOLOKWIUM_PO1\LAB_01\LAB_01\obj\Debug\net5.0\ref\LAB_01.dll
